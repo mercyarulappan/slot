@@ -1,5 +1,5 @@
 # Ex03 Time Table
-## Date:
+## Date:15.03.2024
 
 ## AIM
 To write a html webpage page to display your slot timetable.
@@ -142,7 +142,7 @@ SLOT TIME TABLE-MERCY A (23012506)
 
 ## OUTPUT
 
-![alt text](<mercy/slotapp/static/Screenshot 2024-03-16 094621.png>)
+![alt text](<Screenshot 2024-03-16 094621.png>)
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
